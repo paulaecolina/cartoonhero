@@ -1,0 +1,53 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+	background-color: #c6d9ec;
+}
+
+header{
+	background-color: #bfbfbf;
+	padding: 20px;
+	text-align: center;
+	background: url(file:///Users/PCMcbookAir/Documents/GitHub/cartoonhero/header1.jpg); 50%;
+}
+
+h1{
+	font-size: 30px;
+	color: black;
+}
+
+header img{
+	border-radius: 300px;
+	width: 200px;
+	border: 15px solid #ffffff;
+}
+
+.content{
+	max-width: 650px;
+	margin: 0 auto;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+footer{
+	margin-top: 10px;
+	padding: 30px 20px;
+	background: #336699;
+	color: white;
+	font-weight: bold;
+
+}
+
+/*<header>
+		<img src="header1.jpg">
+		<h1>Captain America: The First Avenger</h1>
+	</header>*/
