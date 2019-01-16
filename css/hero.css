@@ -8,12 +8,11 @@ header{
 	background-color: #bfbfbf;
 	padding: 20px;
 	text-align: center;
-	background-image: url(https://etgeekera.files.wordpress.com/2014/10/captain-america-shield-header.jpg); 100%;
-	background-repeat: no-repeat;
+
 }
 
 h1{
-	font-size: 30px;
+	font-size: 45px;
 	color: white;
 	font-weight: bolder;
 }
@@ -42,7 +41,7 @@ ul{
 
 footer{
 	margin-top: 10px;
-	padding: 30px 20px;
+	padding: 20px 20px;
 	background: #336699;
 	color: white;
 	font-weight: bold;
